@@ -50,7 +50,14 @@ function App() {
       </div>
       <div style={{ marginTop: 40 }}>{res}</div>
       <p class="beian">
-        <a href="https://beian.miit.gov.cn" target="_blank" rel="noreferrer">
+        <a
+          href="https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030002003944"
+          target="_blank"
+          rel="noreferrer"
+        >
+          粤公网安备44030002003944号
+        </a>
+        <a href="https://beian.miit.gov.cn" target="_blank" rel="noreferrer" style={{marginLeft: 20}}>
           粤ICP备2024262941号
         </a>
       </p>

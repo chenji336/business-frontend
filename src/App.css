@@ -10,3 +10,8 @@ h2 {
   position: fixed;
   bottom: 20px;
 }
+
+a {
+  color: rgba(0, 0, 0, 0.6);
+  text-decoration: none;
+}
